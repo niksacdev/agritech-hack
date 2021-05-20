@@ -1,0 +1,13 @@
+{
+    "farmerid":0,
+    "farmId": "1234",
+    "region": "thailand",
+    "timestamp": "",
+    "Moisture": 0,
+    "pH": 0,
+    "Thickness": 0,
+    "MBV": 1.38,
+    "PI": 10,
+    "kPa": 2,
+    "FrictionAngle": 27
+}
