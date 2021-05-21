@@ -15,3 +15,5 @@ Sample repo for Agriculture Tech scenarios on ingesting Soil data into CosmosDB
 5. [Testing Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-test-a-function)
 6. [Azure Functions on Kubernetes with KEDA](https://docs.microsoft.com/en-us/azure/azure-functions/functions-kubernetes-keda)
 7. [Azure CosmosDB Serverless](https://docs.microsoft.com/en-us/azure/cosmos-db/serverless)
+8. [Automate Azure Functions deployments with Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/)
+9. [Deploy to Azure Functions using Jenkins](https://docs.microsoft.com/en-us/azure/developer/jenkins/deploy-to-azure-functions)
